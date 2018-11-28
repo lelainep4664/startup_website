@@ -1,0 +1,87 @@
+/*Header*/
+
+
+
+
+
+/*Services*/
+.Services  {
+    padding: 80px 0px 80 px;
+    text-align: center;
+}
+
+.services h2
+.services h4 {
+    color: #4c4c4c;
+    margin: 20px 0 20px;
+}
+
+.services p {
+    color: #737373
+    font-size:14px;
+    padding-bottom:40px;
+}
+
+.services i {
+    height: 80px;
+    width: 80px;
+    font-size: 30px;
+    padding:25px 20px;
+    border-radius: 50%;
+    background-color: 6699
+    color:#fff;           
+}
+
+@media(max-width:768px) {
+    .services
+        padding:30px;
+}
+
+
+
+/*PRICING*/
+
+
+
+
+
+/*TEAM*/
+
+
+
+
+
+/*CONTACT*/
+.contact {
+    padding: 50px 0 80px;
+    text-align: center;
+}
+.contact p {
+    padding-bottom: 80px;
+    color: #737373;
+}
+.contact h2 {
+    color: #4c4c4c;
+    margin: 20px 0 20px;
+}
+.contact .input-group {
+    margin-bottom: 25px;
+}
+.contact .form-control {
+    border-radius: 0 !important;
+}
+.contact span {
+    border-radius: 0 !important;
+}
+.contact .btn {
+    border-radius: 0;
+    width: 100%;
+    font-size: 15px;
+    background-color: #f08080;
+    color: #fff;
+}
+.contact .btn:hover {
+    background-color: #a85959 !important;
+    color: #fff !important;
+}
+
